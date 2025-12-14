@@ -37,6 +37,7 @@ If successful, the compiled .so file appears at:
 program/target/deploy/token_program.so
 
 🚀 Deploying to Local Solana Validator
+
 1️⃣ Start local validator
 solana-test-validator
 
